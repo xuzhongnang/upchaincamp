@@ -1,0 +1,2 @@
+teacher https://goerli.etherscan.io/address/0xA01486ab59c7A639988CEA1d1d7Bdc7fCb487a8c#code
+score  https://goerli.etherscan.io/address/0x58c212c2f653e5cf42Bb2ed4c39FfB8b7B858CDa#code
